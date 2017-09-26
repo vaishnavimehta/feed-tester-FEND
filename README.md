@@ -1,13 +1,15 @@
-# Feed_Reader_Testing
+# feed-tester-FEND
 
-### Introduction:
-* In this, Jasmine Testing Suite is used to test for various conditions of the given feed reader assets.
+### Feed tesetr project udacity front end web development nanodegree
 
+## Testing:
 * To start, open index.html in your browser.
 
 * The tests were written in the jasmine/spec/feedreader.js . The test results are displayed at the bottom of index.html page.
 
-* The Tests which have passed are depicted by green color while the failed tests are depicted by red color.
+* The Tests which have passed are depicted by green color
+
+* The Tests which have failed tests are depicted by red color.
 
 ### Tasks:
 1. test that loops through each feed in the allFeeds object and ensures it has a URL defined and that the URL is not empty.
