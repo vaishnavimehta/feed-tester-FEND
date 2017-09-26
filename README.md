@@ -1,6 +1,6 @@
 # feed-tester-FEND
 
-### Feed tesetr project udacity front end web development nanodegree
+### Feed tester project udacity front end web development nanodegree
 
 ## Testing:
 * To start, open index.html in your browser.
